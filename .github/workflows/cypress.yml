@@ -1,6 +1,6 @@
 name: Cypress e2e Tests
 on: 
-  workflow_dispach: 
+  workflow_dispatch:
 jobs:
   tests:
     runs-on: ubuntu-latest
